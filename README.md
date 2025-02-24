@@ -36,7 +36,7 @@ Catch-the-Insect/
 ## 📌 Setup Instructions
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/catch-the-insect.git
+   https://github.com/Anithaaaaaaaa/CatchGame/tree/master
    ```
 2. Open `index.html` in a web browser.
 
