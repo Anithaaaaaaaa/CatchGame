@@ -90,24 +90,15 @@ git push -u origin main
 
 🔗 Live Preview
 
-🌍 GitHub Repository: Catch The Insect Game
-🎮 Live Game Link: Play Now
+🌍 GitHub Repository: https://github.com/Anithaaaaaaaa/CatchGame
+
+🎮 Live Game Link: https://anithachandran.neocities.org/Insect_Game/
 
 📩 Contact
+
 For any questions or suggestions, feel free to reach out:
 📧 Email: anithachandran531@gmail.com
 
 
-## 🖼️ Screenshots
-*(Add screenshots of your game here to showcase the UI)*
 
-## 📌 Setup Instructions
-1. Clone the repository:
-   ```
-   https://github.com/Anithaaaaaaaa/CatchGame/tree/master
-   ```
-2. Open `index.html` in a web browser.
-
-## 🤝 Contributing
-Feel free to contribute by submitting pull requests or reporting issues!
 
